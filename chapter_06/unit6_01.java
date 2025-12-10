@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class unit6_01 {
+public class circle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
