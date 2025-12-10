@@ -1,3 +1,5 @@
+//create circle class and Solve the area of ​​a circle.
+
 import java.util.Scanner;
 
 public class circle {

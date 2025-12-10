@@ -1,3 +1,5 @@
+// create TRIANGLE CLASS AND solve area of triangle
+
 import java.util.Scanner;
 
 public class TRIANGLE{
